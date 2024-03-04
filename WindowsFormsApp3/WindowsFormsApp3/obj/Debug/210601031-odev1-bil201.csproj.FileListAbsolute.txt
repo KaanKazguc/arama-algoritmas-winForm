@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\210601031-odev1-bil201.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Bil201210601031Odev1.Form1.resources
+C:\Users\HP\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\HP\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\210601031-odev1-bil201.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\210601031-odev1-bil201.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\HP\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\HP\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\HP\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\HP\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
